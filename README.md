@@ -30,4 +30,4 @@ This repo contains workshop content from my talks and workshops.
 
 - Tinkering with Docker on GCP at [Cloud Study Jams](https://www.meetup.com/gdgbaroda/events/259288406/) by GDG Baroda
 
-- [Machine Learning For Humans] at [OSFest](https://osfest-bits.github.io/)
+- [Machine Learning For Humans](https://github.com/HackyRoot/Workshop-Content/blob/master/Machine%20Learning%20for%20Humans%20@OSFest/machine-learning-for-humans.html) at [OSFest](https://osfest-bits.github.io/)
