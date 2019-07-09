@@ -29,3 +29,5 @@ This repo contains workshop content from my talks and workshops.
 - [Introduction to Data Science and Artificial Intelligence](https://github.com/HackyRoot/Workshop-Content/blob/master/Other/Intro_DS_AI.pdf)
 
 - Tinkering with Docker on GCP at [Cloud Study Jams](https://www.meetup.com/gdgbaroda/events/259288406/) by GDG Baroda
+
+- [Machine Learning For Humans] at [OSFest](https://osfest-bits.github.io/)
