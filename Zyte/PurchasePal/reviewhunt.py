@@ -1,5 +1,4 @@
-import scrapy
-import json
+import scrapy, json, os
 
 
 class ReviewHuntSpider(scrapy.Spider):
@@ -12,7 +11,7 @@ class ReviewHuntSpider(scrapy.Spider):
             "https": "scrapy_zyte_api.ScrapyZyteAPIDownloadHandler",
         },
         TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor",
-        ZYTE_API_KEY = "YOUR_ZYTE_API_HERE",
+        ZYTE_API_KEY = os.environ.get('zyte_api_key'),
         ZYTE_API_TRANSPARENT_MODE= True,
     )
 
